@@ -1,0 +1,5 @@
+c:\users\ywang23\documents\visual studio 2013\Projects\UnderstandingScope\UnderstandingScope\bin\Debug\UnderstandingScope.exe
+c:\users\ywang23\documents\visual studio 2013\Projects\UnderstandingScope\UnderstandingScope\bin\Debug\UnderstandingScope.pdb
+c:\users\ywang23\documents\visual studio 2013\Projects\UnderstandingScope\UnderstandingScope\obj\Debug\UnderstandingScope.csprojResolveAssemblyReference.cache
+c:\users\ywang23\documents\visual studio 2013\Projects\UnderstandingScope\UnderstandingScope\obj\Debug\UnderstandingScope.exe
+c:\users\ywang23\documents\visual studio 2013\Projects\UnderstandingScope\UnderstandingScope\obj\Debug\UnderstandingScope.pdb

@@ -1,0 +1,4 @@
+c:\users\ywang23\documents\visual studio 2013\Projects\UninitializedVariable\UninitializedVariable\bin\Debug\UninitializedVariable.exe
+c:\users\ywang23\documents\visual studio 2013\Projects\UninitializedVariable\UninitializedVariable\bin\Debug\UninitializedVariable.pdb
+c:\users\ywang23\documents\visual studio 2013\Projects\UninitializedVariable\UninitializedVariable\obj\Debug\UninitializedVariable.exe
+c:\users\ywang23\documents\visual studio 2013\Projects\UninitializedVariable\UninitializedVariable\obj\Debug\UninitializedVariable.pdb

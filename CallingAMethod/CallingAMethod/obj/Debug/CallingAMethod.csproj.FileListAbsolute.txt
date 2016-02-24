@@ -1,0 +1,5 @@
+c:\users\ywang23\documents\visual studio 2013\Projects\CallingAMethod\CallingAMethod\bin\Debug\CallingAMethod.exe
+c:\users\ywang23\documents\visual studio 2013\Projects\CallingAMethod\CallingAMethod\bin\Debug\CallingAMethod.pdb
+c:\users\ywang23\documents\visual studio 2013\Projects\CallingAMethod\CallingAMethod\obj\Debug\CallingAMethod.csprojResolveAssemblyReference.cache
+c:\users\ywang23\documents\visual studio 2013\Projects\CallingAMethod\CallingAMethod\obj\Debug\CallingAMethod.exe
+c:\users\ywang23\documents\visual studio 2013\Projects\CallingAMethod\CallingAMethod\obj\Debug\CallingAMethod.pdb

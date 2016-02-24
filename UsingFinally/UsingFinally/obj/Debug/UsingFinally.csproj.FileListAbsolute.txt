@@ -1,0 +1,5 @@
+c:\users\ywang23\documents\visual studio 2013\Projects\UsingFinally\UsingFinally\bin\Debug\UsingFinally.exe
+c:\users\ywang23\documents\visual studio 2013\Projects\UsingFinally\UsingFinally\bin\Debug\UsingFinally.pdb
+c:\users\ywang23\documents\visual studio 2013\Projects\UsingFinally\UsingFinally\obj\Debug\UsingFinally.csprojResolveAssemblyReference.cache
+c:\users\ywang23\documents\visual studio 2013\Projects\UsingFinally\UsingFinally\obj\Debug\UsingFinally.exe
+c:\users\ywang23\documents\visual studio 2013\Projects\UsingFinally\UsingFinally\obj\Debug\UsingFinally.pdb

@@ -1,0 +1,5 @@
+c:\users\ywang23\documents\visual studio 2013\Projects\MathProb1\MathProb1\bin\Debug\MathProb1.exe
+c:\users\ywang23\documents\visual studio 2013\Projects\MathProb1\MathProb1\bin\Debug\MathProb1.pdb
+c:\users\ywang23\documents\visual studio 2013\Projects\MathProb1\MathProb1\obj\Debug\MathProb1.csprojResolveAssemblyReference.cache
+c:\users\ywang23\documents\visual studio 2013\Projects\MathProb1\MathProb1\obj\Debug\MathProb1.exe
+c:\users\ywang23\documents\visual studio 2013\Projects\MathProb1\MathProb1\obj\Debug\MathProb1.pdb

@@ -1,0 +1,6 @@
+c:\users\ywang23\documents\visual studio 2013\Projects\FrontPage\FrontPage\bin\FrontPage.dll.config
+c:\users\ywang23\documents\visual studio 2013\Projects\FrontPage\FrontPage\bin\FrontPage.dll
+c:\users\ywang23\documents\visual studio 2013\Projects\FrontPage\FrontPage\bin\FrontPage.pdb
+c:\users\ywang23\documents\visual studio 2013\Projects\FrontPage\FrontPage\obj\Debug\FrontPage.csprojResolveAssemblyReference.cache
+c:\users\ywang23\documents\visual studio 2013\Projects\FrontPage\FrontPage\obj\Debug\FrontPage.dll
+c:\users\ywang23\documents\visual studio 2013\Projects\FrontPage\FrontPage\obj\Debug\FrontPage.pdb

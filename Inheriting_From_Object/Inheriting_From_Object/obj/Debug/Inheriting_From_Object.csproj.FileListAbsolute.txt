@@ -1,0 +1,5 @@
+c:\users\ywang23\documents\visual studio 2013\Projects\Inheriting_From_Object\Inheriting_From_Object\bin\Debug\Inheriting_From_Object.exe
+c:\users\ywang23\documents\visual studio 2013\Projects\Inheriting_From_Object\Inheriting_From_Object\bin\Debug\Inheriting_From_Object.pdb
+c:\users\ywang23\documents\visual studio 2013\Projects\Inheriting_From_Object\Inheriting_From_Object\obj\Debug\Inheriting_From_Object.csprojResolveAssemblyReference.cache
+c:\users\ywang23\documents\visual studio 2013\Projects\Inheriting_From_Object\Inheriting_From_Object\obj\Debug\Inheriting_From_Object.exe
+c:\users\ywang23\documents\visual studio 2013\Projects\Inheriting_From_Object\Inheriting_From_Object\obj\Debug\Inheriting_From_Object.pdb

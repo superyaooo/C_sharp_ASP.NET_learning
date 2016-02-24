@@ -1,0 +1,6 @@
+C:\Users\ywang23\Documents\C_sharp_ASP.NET_learning\ReadFile\bin\ReadFile.dll.config
+C:\Users\ywang23\Documents\C_sharp_ASP.NET_learning\ReadFile\bin\ReadFile.dll
+C:\Users\ywang23\Documents\C_sharp_ASP.NET_learning\ReadFile\bin\ReadFile.pdb
+C:\Users\ywang23\Documents\C_sharp_ASP.NET_learning\ReadFile\obj\Debug\ReadFile.csprojResolveAssemblyReference.cache
+C:\Users\ywang23\Documents\C_sharp_ASP.NET_learning\ReadFile\obj\Debug\ReadFile.dll
+C:\Users\ywang23\Documents\C_sharp_ASP.NET_learning\ReadFile\obj\Debug\ReadFile.pdb

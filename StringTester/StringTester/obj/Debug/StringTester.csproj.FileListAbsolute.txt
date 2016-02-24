@@ -1,0 +1,5 @@
+c:\users\ywang23\documents\visual studio 2013\Projects\StringTester\StringTester\bin\Debug\StringTester.exe
+c:\users\ywang23\documents\visual studio 2013\Projects\StringTester\StringTester\bin\Debug\StringTester.pdb
+c:\users\ywang23\documents\visual studio 2013\Projects\StringTester\StringTester\obj\Debug\StringTester.csprojResolveAssemblyReference.cache
+c:\users\ywang23\documents\visual studio 2013\Projects\StringTester\StringTester\obj\Debug\StringTester.exe
+c:\users\ywang23\documents\visual studio 2013\Projects\StringTester\StringTester\obj\Debug\StringTester.pdb

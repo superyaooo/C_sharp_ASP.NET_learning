@@ -1,0 +1,6 @@
+C:\Users\ywang23\Documents\C_sharp_ASP.NET_learning\WriteFile\bin\WriteFile.dll.config
+C:\Users\ywang23\Documents\C_sharp_ASP.NET_learning\WriteFile\bin\WriteFile.dll
+C:\Users\ywang23\Documents\C_sharp_ASP.NET_learning\WriteFile\bin\WriteFile.pdb
+C:\Users\ywang23\Documents\C_sharp_ASP.NET_learning\WriteFile\obj\Debug\WriteFile.csprojResolveAssemblyReference.cache
+C:\Users\ywang23\Documents\C_sharp_ASP.NET_learning\WriteFile\obj\Debug\WriteFile.dll
+C:\Users\ywang23\Documents\C_sharp_ASP.NET_learning\WriteFile\obj\Debug\WriteFile.pdb

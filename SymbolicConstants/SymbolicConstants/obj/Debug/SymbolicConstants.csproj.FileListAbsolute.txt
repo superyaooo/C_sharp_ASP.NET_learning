@@ -1,0 +1,4 @@
+c:\users\ywang23\documents\visual studio 2013\Projects\SymbolicConstants\SymbolicConstants\bin\Debug\SymbolicConstants.exe
+c:\users\ywang23\documents\visual studio 2013\Projects\SymbolicConstants\SymbolicConstants\bin\Debug\SymbolicConstants.pdb
+c:\users\ywang23\documents\visual studio 2013\Projects\SymbolicConstants\SymbolicConstants\obj\Debug\SymbolicConstants.exe
+c:\users\ywang23\documents\visual studio 2013\Projects\SymbolicConstants\SymbolicConstants\obj\Debug\SymbolicConstants.pdb

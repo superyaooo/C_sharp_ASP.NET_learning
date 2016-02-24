@@ -1,0 +1,6 @@
+c:\users\ywang23\documents\visual studio 2013\Projects\Survey\Survey\bin\Survey.dll.config
+c:\users\ywang23\documents\visual studio 2013\Projects\Survey\Survey\bin\Survey.dll
+c:\users\ywang23\documents\visual studio 2013\Projects\Survey\Survey\bin\Survey.pdb
+c:\users\ywang23\documents\visual studio 2013\Projects\Survey\Survey\obj\Debug\Survey.csprojResolveAssemblyReference.cache
+c:\users\ywang23\documents\visual studio 2013\Projects\Survey\Survey\obj\Debug\Survey.dll
+c:\users\ywang23\documents\visual studio 2013\Projects\Survey\Survey\obj\Debug\Survey.pdb

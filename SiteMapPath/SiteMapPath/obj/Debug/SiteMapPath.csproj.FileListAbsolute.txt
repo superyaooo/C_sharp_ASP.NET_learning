@@ -1,0 +1,6 @@
+c:\users\ywang23\documents\visual studio 2013\Projects\SiteMapPath\SiteMapPath\bin\SiteMapPath.dll.config
+c:\users\ywang23\documents\visual studio 2013\Projects\SiteMapPath\SiteMapPath\bin\SiteMapPath.dll
+c:\users\ywang23\documents\visual studio 2013\Projects\SiteMapPath\SiteMapPath\bin\SiteMapPath.pdb
+c:\users\ywang23\documents\visual studio 2013\Projects\SiteMapPath\SiteMapPath\obj\Debug\SiteMapPath.csprojResolveAssemblyReference.cache
+c:\users\ywang23\documents\visual studio 2013\Projects\SiteMapPath\SiteMapPath\obj\Debug\SiteMapPath.dll
+c:\users\ywang23\documents\visual studio 2013\Projects\SiteMapPath\SiteMapPath\obj\Debug\SiteMapPath.pdb

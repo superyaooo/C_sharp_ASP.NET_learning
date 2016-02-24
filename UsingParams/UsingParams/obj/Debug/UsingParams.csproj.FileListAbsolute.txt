@@ -1,0 +1,5 @@
+c:\users\ywang23\documents\visual studio 2013\Projects\UsingParams\UsingParams\bin\Debug\UsingParams.exe
+c:\users\ywang23\documents\visual studio 2013\Projects\UsingParams\UsingParams\bin\Debug\UsingParams.pdb
+c:\users\ywang23\documents\visual studio 2013\Projects\UsingParams\UsingParams\obj\Debug\UsingParams.csprojResolveAssemblyReference.cache
+c:\users\ywang23\documents\visual studio 2013\Projects\UsingParams\UsingParams\obj\Debug\UsingParams.exe
+c:\users\ywang23\documents\visual studio 2013\Projects\UsingParams\UsingParams\obj\Debug\UsingParams.pdb

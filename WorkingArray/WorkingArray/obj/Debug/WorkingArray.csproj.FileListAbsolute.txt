@@ -1,0 +1,5 @@
+c:\users\ywang23\documents\visual studio 2013\Projects\WorkingArray\WorkingArray\obj\Debug\WorkingArray.csprojResolveAssemblyReference.cache
+c:\users\ywang23\documents\visual studio 2013\Projects\WorkingArray\WorkingArray\bin\Debug\WorkingArray.exe
+c:\users\ywang23\documents\visual studio 2013\Projects\WorkingArray\WorkingArray\bin\Debug\WorkingArray.pdb
+c:\users\ywang23\documents\visual studio 2013\Projects\WorkingArray\WorkingArray\obj\Debug\WorkingArray.exe
+c:\users\ywang23\documents\visual studio 2013\Projects\WorkingArray\WorkingArray\obj\Debug\WorkingArray.pdb

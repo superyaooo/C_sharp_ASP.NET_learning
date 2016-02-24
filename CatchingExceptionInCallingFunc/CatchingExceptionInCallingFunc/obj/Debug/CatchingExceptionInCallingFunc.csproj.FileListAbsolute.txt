@@ -1,0 +1,4 @@
+c:\users\ywang23\documents\visual studio 2013\Projects\CatchingExceptionInCallingFunc\CatchingExceptionInCallingFunc\bin\Debug\CatchingExceptionInCallingFunc.exe
+c:\users\ywang23\documents\visual studio 2013\Projects\CatchingExceptionInCallingFunc\CatchingExceptionInCallingFunc\bin\Debug\CatchingExceptionInCallingFunc.pdb
+c:\users\ywang23\documents\visual studio 2013\Projects\CatchingExceptionInCallingFunc\CatchingExceptionInCallingFunc\obj\Debug\CatchingExceptionInCallingFunc.exe
+c:\users\ywang23\documents\visual studio 2013\Projects\CatchingExceptionInCallingFunc\CatchingExceptionInCallingFunc\obj\Debug\CatchingExceptionInCallingFunc.pdb

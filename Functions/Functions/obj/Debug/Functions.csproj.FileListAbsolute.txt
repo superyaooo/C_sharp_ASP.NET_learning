@@ -1,0 +1,5 @@
+c:\users\ywang23\documents\visual studio 2013\Projects\Functions\Functions\bin\Functions.dll.config
+c:\users\ywang23\documents\visual studio 2013\Projects\Functions\Functions\bin\Functions.dll
+c:\users\ywang23\documents\visual studio 2013\Projects\Functions\Functions\bin\Functions.pdb
+c:\users\ywang23\documents\visual studio 2013\Projects\Functions\Functions\obj\Debug\Functions.dll
+c:\users\ywang23\documents\visual studio 2013\Projects\Functions\Functions\obj\Debug\Functions.pdb

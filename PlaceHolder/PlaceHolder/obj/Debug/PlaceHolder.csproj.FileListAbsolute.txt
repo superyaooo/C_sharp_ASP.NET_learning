@@ -1,0 +1,6 @@
+c:\users\ywang23\documents\visual studio 2013\Projects\PlaceHolder\PlaceHolder\bin\PlaceHolder.dll.config
+c:\users\ywang23\documents\visual studio 2013\Projects\PlaceHolder\PlaceHolder\bin\PlaceHolder.dll
+c:\users\ywang23\documents\visual studio 2013\Projects\PlaceHolder\PlaceHolder\bin\PlaceHolder.pdb
+c:\users\ywang23\documents\visual studio 2013\Projects\PlaceHolder\PlaceHolder\obj\Debug\PlaceHolder.csprojResolveAssemblyReference.cache
+c:\users\ywang23\documents\visual studio 2013\Projects\PlaceHolder\PlaceHolder\obj\Debug\PlaceHolder.dll
+c:\users\ywang23\documents\visual studio 2013\Projects\PlaceHolder\PlaceHolder\obj\Debug\PlaceHolder.pdb

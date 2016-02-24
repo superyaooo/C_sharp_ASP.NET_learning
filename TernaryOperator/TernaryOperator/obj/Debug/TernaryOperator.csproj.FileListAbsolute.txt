@@ -1,0 +1,5 @@
+c:\users\ywang23\documents\visual studio 2013\Projects\TernaryOperator\TernaryOperator\bin\Debug\TernaryOperator.exe
+c:\users\ywang23\documents\visual studio 2013\Projects\TernaryOperator\TernaryOperator\bin\Debug\TernaryOperator.pdb
+c:\users\ywang23\documents\visual studio 2013\Projects\TernaryOperator\TernaryOperator\obj\Debug\TernaryOperator.csprojResolveAssemblyReference.cache
+c:\users\ywang23\documents\visual studio 2013\Projects\TernaryOperator\TernaryOperator\obj\Debug\TernaryOperator.exe
+c:\users\ywang23\documents\visual studio 2013\Projects\TernaryOperator\TernaryOperator\obj\Debug\TernaryOperator.pdb

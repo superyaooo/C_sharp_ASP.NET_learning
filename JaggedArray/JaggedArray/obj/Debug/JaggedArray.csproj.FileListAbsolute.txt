@@ -1,0 +1,5 @@
+c:\users\ywang23\documents\visual studio 2013\Projects\JaggedArray\JaggedArray\bin\Debug\JaggedArray.exe
+c:\users\ywang23\documents\visual studio 2013\Projects\JaggedArray\JaggedArray\bin\Debug\JaggedArray.pdb
+c:\users\ywang23\documents\visual studio 2013\Projects\JaggedArray\JaggedArray\obj\Debug\JaggedArray.csprojResolveAssemblyReference.cache
+c:\users\ywang23\documents\visual studio 2013\Projects\JaggedArray\JaggedArray\obj\Debug\JaggedArray.exe
+c:\users\ywang23\documents\visual studio 2013\Projects\JaggedArray\JaggedArray\obj\Debug\JaggedArray.pdb

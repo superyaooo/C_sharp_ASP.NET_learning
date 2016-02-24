@@ -1,0 +1,5 @@
+c:\users\ywang23\documents\visual studio 2013\Projects\Nested_Class\Nested_Class\bin\Debug\Nested_Class.exe
+c:\users\ywang23\documents\visual studio 2013\Projects\Nested_Class\Nested_Class\bin\Debug\Nested_Class.pdb
+c:\users\ywang23\documents\visual studio 2013\Projects\Nested_Class\Nested_Class\obj\Debug\Nested_Class.csprojResolveAssemblyReference.cache
+c:\users\ywang23\documents\visual studio 2013\Projects\Nested_Class\Nested_Class\obj\Debug\Nested_Class.exe
+c:\users\ywang23\documents\visual studio 2013\Projects\Nested_Class\Nested_Class\obj\Debug\Nested_Class.pdb

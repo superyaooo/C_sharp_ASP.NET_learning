@@ -1,0 +1,5 @@
+c:\users\ywang23\documents\visual studio 2013\Projects\IComparable\IComparable\bin\Debug\IComparable.exe
+c:\users\ywang23\documents\visual studio 2013\Projects\IComparable\IComparable\bin\Debug\IComparable.pdb
+c:\users\ywang23\documents\visual studio 2013\Projects\IComparable\IComparable\obj\Debug\IComparable.csprojResolveAssemblyReference.cache
+c:\users\ywang23\documents\visual studio 2013\Projects\IComparable\IComparable\obj\Debug\IComparable.exe
+c:\users\ywang23\documents\visual studio 2013\Projects\IComparable\IComparable\obj\Debug\IComparable.pdb

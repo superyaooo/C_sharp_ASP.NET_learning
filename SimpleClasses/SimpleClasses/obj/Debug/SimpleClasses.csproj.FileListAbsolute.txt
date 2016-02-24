@@ -1,0 +1,5 @@
+C:\Users\ywang23\Documents\Visual Studio 2013\Projects\SimpleClasses\SimpleClasses\bin\Debug\SimpleClasses.exe
+C:\Users\ywang23\Documents\Visual Studio 2013\Projects\SimpleClasses\SimpleClasses\bin\Debug\SimpleClasses.pdb
+C:\Users\ywang23\Documents\Visual Studio 2013\Projects\SimpleClasses\SimpleClasses\obj\Debug\SimpleClasses.csprojResolveAssemblyReference.cache
+C:\Users\ywang23\Documents\Visual Studio 2013\Projects\SimpleClasses\SimpleClasses\obj\Debug\SimpleClasses.exe
+C:\Users\ywang23\Documents\Visual Studio 2013\Projects\SimpleClasses\SimpleClasses\obj\Debug\SimpleClasses.pdb

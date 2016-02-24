@@ -1,0 +1,5 @@
+c:\users\ywang23\documents\visual studio 2013\Projects\DivisionModulus\DivisionModulus\bin\Debug\DivisionModulus.exe
+c:\users\ywang23\documents\visual studio 2013\Projects\DivisionModulus\DivisionModulus\bin\Debug\DivisionModulus.pdb
+c:\users\ywang23\documents\visual studio 2013\Projects\DivisionModulus\DivisionModulus\obj\Debug\DivisionModulus.csprojResolveAssemblyReference.cache
+c:\users\ywang23\documents\visual studio 2013\Projects\DivisionModulus\DivisionModulus\obj\Debug\DivisionModulus.exe
+c:\users\ywang23\documents\visual studio 2013\Projects\DivisionModulus\DivisionModulus\obj\Debug\DivisionModulus.pdb

@@ -1,0 +1,6 @@
+c:\users\ywang23\documents\visual studio 2013\Projects\PanelControl\PanelControl\bin\PanelControl.dll.config
+c:\users\ywang23\documents\visual studio 2013\Projects\PanelControl\PanelControl\bin\PanelControl.dll
+c:\users\ywang23\documents\visual studio 2013\Projects\PanelControl\PanelControl\bin\PanelControl.pdb
+c:\users\ywang23\documents\visual studio 2013\Projects\PanelControl\PanelControl\obj\Debug\PanelControl.csprojResolveAssemblyReference.cache
+c:\users\ywang23\documents\visual studio 2013\Projects\PanelControl\PanelControl\obj\Debug\PanelControl.dll
+c:\users\ywang23\documents\visual studio 2013\Projects\PanelControl\PanelControl\obj\Debug\PanelControl.pdb

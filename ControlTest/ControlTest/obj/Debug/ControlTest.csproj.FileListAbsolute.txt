@@ -1,0 +1,6 @@
+c:\users\ywang23\documents\visual studio 2013\Projects\ControlTest\ControlTest\bin\ControlTest.dll.config
+c:\users\ywang23\documents\visual studio 2013\Projects\ControlTest\ControlTest\bin\ControlTest.dll
+c:\users\ywang23\documents\visual studio 2013\Projects\ControlTest\ControlTest\bin\ControlTest.pdb
+c:\users\ywang23\documents\visual studio 2013\Projects\ControlTest\ControlTest\obj\Debug\ControlTest.csprojResolveAssemblyReference.cache
+c:\users\ywang23\documents\visual studio 2013\Projects\ControlTest\ControlTest\obj\Debug\ControlTest.dll
+c:\users\ywang23\documents\visual studio 2013\Projects\ControlTest\ControlTest\obj\Debug\ControlTest.pdb

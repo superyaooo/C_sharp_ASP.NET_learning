@@ -1,0 +1,5 @@
+c:\users\ywang23\documents\visual studio 2013\Projects\InitializingMultiDimentionalArray\InitializingMultiDimentionalArray\bin\Debug\InitializingMultiDimentionalArray.exe
+c:\users\ywang23\documents\visual studio 2013\Projects\InitializingMultiDimentionalArray\InitializingMultiDimentionalArray\bin\Debug\InitializingMultiDimentionalArray.pdb
+c:\users\ywang23\documents\visual studio 2013\Projects\InitializingMultiDimentionalArray\InitializingMultiDimentionalArray\obj\Debug\InitializingMultiDimentionalArray.csprojResolveAssemblyReference.cache
+c:\users\ywang23\documents\visual studio 2013\Projects\InitializingMultiDimentionalArray\InitializingMultiDimentionalArray\obj\Debug\InitializingMultiDimentionalArray.exe
+c:\users\ywang23\documents\visual studio 2013\Projects\InitializingMultiDimentionalArray\InitializingMultiDimentionalArray\obj\Debug\InitializingMultiDimentionalArray.pdb

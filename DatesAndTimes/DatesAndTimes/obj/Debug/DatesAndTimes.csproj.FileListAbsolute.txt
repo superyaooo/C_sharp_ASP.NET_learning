@@ -1,0 +1,5 @@
+c:\users\ywang23\documents\visual studio 2013\Projects\DatesAndTimes\DatesAndTimes\bin\Debug\DatesAndTimes.exe
+c:\users\ywang23\documents\visual studio 2013\Projects\DatesAndTimes\DatesAndTimes\bin\Debug\DatesAndTimes.pdb
+c:\users\ywang23\documents\visual studio 2013\Projects\DatesAndTimes\DatesAndTimes\obj\Debug\DatesAndTimes.csprojResolveAssemblyReference.cache
+c:\users\ywang23\documents\visual studio 2013\Projects\DatesAndTimes\DatesAndTimes\obj\Debug\DatesAndTimes.exe
+c:\users\ywang23\documents\visual studio 2013\Projects\DatesAndTimes\DatesAndTimes\obj\Debug\DatesAndTimes.pdb

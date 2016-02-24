@@ -1,0 +1,6 @@
+c:\users\ywang23\documents\visual studio 2013\Projects\AccessingData\bin\AccessingData.dll.config
+c:\users\ywang23\documents\visual studio 2013\Projects\AccessingData\bin\AccessingData.dll
+c:\users\ywang23\documents\visual studio 2013\Projects\AccessingData\bin\AccessingData.pdb
+c:\users\ywang23\documents\visual studio 2013\Projects\AccessingData\obj\Debug\AccessingData.csprojResolveAssemblyReference.cache
+c:\users\ywang23\documents\visual studio 2013\Projects\AccessingData\obj\Debug\AccessingData.dll
+c:\users\ywang23\documents\visual studio 2013\Projects\AccessingData\obj\Debug\AccessingData.pdb

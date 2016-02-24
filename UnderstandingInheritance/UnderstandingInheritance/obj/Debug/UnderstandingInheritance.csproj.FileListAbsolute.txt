@@ -1,0 +1,5 @@
+c:\users\ywang23\documents\visual studio 2013\Projects\UnderstandingInheritance\UnderstandingInheritance\bin\Debug\UnderstandingInheritance.exe
+c:\users\ywang23\documents\visual studio 2013\Projects\UnderstandingInheritance\UnderstandingInheritance\bin\Debug\UnderstandingInheritance.pdb
+c:\users\ywang23\documents\visual studio 2013\Projects\UnderstandingInheritance\UnderstandingInheritance\obj\Debug\UnderstandingInheritance.csprojResolveAssemblyReference.cache
+c:\users\ywang23\documents\visual studio 2013\Projects\UnderstandingInheritance\UnderstandingInheritance\obj\Debug\UnderstandingInheritance.exe
+c:\users\ywang23\documents\visual studio 2013\Projects\UnderstandingInheritance\UnderstandingInheritance\obj\Debug\UnderstandingInheritance.pdb

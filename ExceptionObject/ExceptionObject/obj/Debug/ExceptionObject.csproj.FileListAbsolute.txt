@@ -1,0 +1,4 @@
+c:\users\ywang23\documents\visual studio 2013\Projects\ExceptionObject\ExceptionObject\bin\Debug\ExceptionObject.exe
+c:\users\ywang23\documents\visual studio 2013\Projects\ExceptionObject\ExceptionObject\bin\Debug\ExceptionObject.pdb
+c:\users\ywang23\documents\visual studio 2013\Projects\ExceptionObject\ExceptionObject\obj\Debug\ExceptionObject.exe
+c:\users\ywang23\documents\visual studio 2013\Projects\ExceptionObject\ExceptionObject\obj\Debug\ExceptionObject.pdb

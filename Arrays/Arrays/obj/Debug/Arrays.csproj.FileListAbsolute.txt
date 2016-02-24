@@ -1,0 +1,6 @@
+c:\users\ywang23\documents\visual studio 2013\Projects\Arrays\Arrays\bin\Arrays.dll.config
+c:\users\ywang23\documents\visual studio 2013\Projects\Arrays\Arrays\bin\Arrays.dll
+c:\users\ywang23\documents\visual studio 2013\Projects\Arrays\Arrays\bin\Arrays.pdb
+c:\users\ywang23\documents\visual studio 2013\Projects\Arrays\Arrays\obj\Debug\Arrays.csprojResolveAssemblyReference.cache
+c:\users\ywang23\documents\visual studio 2013\Projects\Arrays\Arrays\obj\Debug\Arrays.dll
+c:\users\ywang23\documents\visual studio 2013\Projects\Arrays\Arrays\obj\Debug\Arrays.pdb

@@ -1,0 +1,5 @@
+c:\users\ywang23\documents\visual studio 2013\Projects\SimpleIndexer\SimpleIndexer\bin\Debug\SimpleIndexer.exe
+c:\users\ywang23\documents\visual studio 2013\Projects\SimpleIndexer\SimpleIndexer\bin\Debug\SimpleIndexer.pdb
+c:\users\ywang23\documents\visual studio 2013\Projects\SimpleIndexer\SimpleIndexer\obj\Debug\SimpleIndexer.csprojResolveAssemblyReference.cache
+c:\users\ywang23\documents\visual studio 2013\Projects\SimpleIndexer\SimpleIndexer\obj\Debug\SimpleIndexer.exe
+c:\users\ywang23\documents\visual studio 2013\Projects\SimpleIndexer\SimpleIndexer\obj\Debug\SimpleIndexer.pdb

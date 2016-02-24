@@ -1,0 +1,4 @@
+c:\users\ywang23\documents\visual studio 2013\Projects\UnderstandingEnumerations\UnderstandingEnumerations\bin\Debug\UnderstandingEnumerations.exe
+c:\users\ywang23\documents\visual studio 2013\Projects\UnderstandingEnumerations\UnderstandingEnumerations\bin\Debug\UnderstandingEnumerations.pdb
+c:\users\ywang23\documents\visual studio 2013\Projects\UnderstandingEnumerations\UnderstandingEnumerations\obj\Debug\UnderstandingEnumerations.exe
+c:\users\ywang23\documents\visual studio 2013\Projects\UnderstandingEnumerations\UnderstandingEnumerations\obj\Debug\UnderstandingEnumerations.pdb

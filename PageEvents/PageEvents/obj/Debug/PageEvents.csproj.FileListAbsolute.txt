@@ -1,0 +1,6 @@
+c:\users\ywang23\documents\visual studio 2013\Projects\PageEvents\PageEvents\bin\PageEvents.dll.config
+c:\users\ywang23\documents\visual studio 2013\Projects\PageEvents\PageEvents\bin\PageEvents.dll
+c:\users\ywang23\documents\visual studio 2013\Projects\PageEvents\PageEvents\bin\PageEvents.pdb
+c:\users\ywang23\documents\visual studio 2013\Projects\PageEvents\PageEvents\obj\Debug\PageEvents.csprojResolveAssemblyReference.cache
+c:\users\ywang23\documents\visual studio 2013\Projects\PageEvents\PageEvents\obj\Debug\PageEvents.dll
+c:\users\ywang23\documents\visual studio 2013\Projects\PageEvents\PageEvents\obj\Debug\PageEvents.pdb

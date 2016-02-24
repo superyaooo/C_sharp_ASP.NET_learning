@@ -1,0 +1,5 @@
+c:\users\ywang23\documents\visual studio 2013\Projects\InitializingVariables\InitializingVariables\bin\Debug\InitializingVariables.exe
+c:\users\ywang23\documents\visual studio 2013\Projects\InitializingVariables\InitializingVariables\bin\Debug\InitializingVariables.pdb
+c:\users\ywang23\documents\visual studio 2013\Projects\InitializingVariables\InitializingVariables\obj\Debug\InitializingVariables.csprojResolveAssemblyReference.cache
+c:\users\ywang23\documents\visual studio 2013\Projects\InitializingVariables\InitializingVariables\obj\Debug\InitializingVariables.exe
+c:\users\ywang23\documents\visual studio 2013\Projects\InitializingVariables\InitializingVariables\obj\Debug\InitializingVariables.pdb

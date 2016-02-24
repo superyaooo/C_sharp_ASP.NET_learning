@@ -1,0 +1,1 @@
+c:\users\ywang23\documents\visual studio 2013\Projects\NamespacesAndReferencingAssemblies\NamespacesAndReferencingAssemblies\obj\Debug\NamespacesAndReferencingAssemblies.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+c:\users\ywang23\documents\visual studio 2013\Projects\UsingConstraints\UsingConstraints\obj\Debug\UsingConstraints.csprojResolveAssemblyReference.cache
+c:\users\ywang23\documents\visual studio 2013\Projects\UsingConstraints\UsingConstraints\bin\Debug\UsingConstraints.exe
+c:\users\ywang23\documents\visual studio 2013\Projects\UsingConstraints\UsingConstraints\bin\Debug\UsingConstraints.pdb
+c:\users\ywang23\documents\visual studio 2013\Projects\UsingConstraints\UsingConstraints\obj\Debug\UsingConstraints.exe
+c:\users\ywang23\documents\visual studio 2013\Projects\UsingConstraints\UsingConstraints\obj\Debug\UsingConstraints.pdb

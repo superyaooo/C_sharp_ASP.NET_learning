@@ -1,0 +1,5 @@
+c:\users\ywang23\documents\visual studio 2013\Projects\StringSplit\StringSplit\bin\Debug\StringSplit.exe
+c:\users\ywang23\documents\visual studio 2013\Projects\StringSplit\StringSplit\bin\Debug\StringSplit.pdb
+c:\users\ywang23\documents\visual studio 2013\Projects\StringSplit\StringSplit\obj\Debug\StringSplit.csprojResolveAssemblyReference.cache
+c:\users\ywang23\documents\visual studio 2013\Projects\StringSplit\StringSplit\obj\Debug\StringSplit.exe
+c:\users\ywang23\documents\visual studio 2013\Projects\StringSplit\StringSplit\obj\Debug\StringSplit.pdb

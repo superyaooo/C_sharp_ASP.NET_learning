@@ -1,0 +1,5 @@
+c:\users\ywang23\documents\visual studio 2013\Projects\abstract_method_and_class\abstract_method_and_class\bin\Debug\abstract_method_and_class.exe
+c:\users\ywang23\documents\visual studio 2013\Projects\abstract_method_and_class\abstract_method_and_class\bin\Debug\abstract_method_and_class.pdb
+c:\users\ywang23\documents\visual studio 2013\Projects\abstract_method_and_class\abstract_method_and_class\obj\Debug\abstract_method_and_class.csprojResolveAssemblyReference.cache
+c:\users\ywang23\documents\visual studio 2013\Projects\abstract_method_and_class\abstract_method_and_class\obj\Debug\abstract_method_and_class.exe
+c:\users\ywang23\documents\visual studio 2013\Projects\abstract_method_and_class\abstract_method_and_class\obj\Debug\abstract_method_and_class.pdb

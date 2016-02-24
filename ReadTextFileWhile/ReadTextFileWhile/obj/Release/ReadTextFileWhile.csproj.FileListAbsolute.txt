@@ -1,0 +1,5 @@
+C:\Users\ywang23\Documents\Visual Studio 2013\Projects\ReadTextFileWhile\ReadTextFileWhile\bin\Release\Values1.txt
+C:\Users\ywang23\Documents\Visual Studio 2013\Projects\ReadTextFileWhile\ReadTextFileWhile\bin\Release\ReadTextFileWhile.exe
+C:\Users\ywang23\Documents\Visual Studio 2013\Projects\ReadTextFileWhile\ReadTextFileWhile\bin\Release\ReadTextFileWhile.pdb
+C:\Users\ywang23\Documents\Visual Studio 2013\Projects\ReadTextFileWhile\ReadTextFileWhile\obj\Release\ReadTextFileWhile.exe
+C:\Users\ywang23\Documents\Visual Studio 2013\Projects\ReadTextFileWhile\ReadTextFileWhile\obj\Release\ReadTextFileWhile.pdb

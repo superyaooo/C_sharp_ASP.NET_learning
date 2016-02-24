@@ -1,0 +1,5 @@
+c:\users\ywang23\documents\visual studio 2013\Projects\Enumerable\Enumerable\bin\Debug\Enumerable.exe
+c:\users\ywang23\documents\visual studio 2013\Projects\Enumerable\Enumerable\bin\Debug\Enumerable.pdb
+c:\users\ywang23\documents\visual studio 2013\Projects\Enumerable\Enumerable\obj\Debug\Enumerable.csprojResolveAssemblyReference.cache
+c:\users\ywang23\documents\visual studio 2013\Projects\Enumerable\Enumerable\obj\Debug\Enumerable.exe
+c:\users\ywang23\documents\visual studio 2013\Projects\Enumerable\Enumerable\obj\Debug\Enumerable.pdb

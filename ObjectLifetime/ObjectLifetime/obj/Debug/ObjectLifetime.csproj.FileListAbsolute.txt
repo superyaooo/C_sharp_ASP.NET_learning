@@ -1,0 +1,5 @@
+c:\users\ywang23\documents\visual studio 2013\Projects\ObjectLifetime\ObjectLifetime\obj\Debug\ObjectLifetime.csprojResolveAssemblyReference.cache
+c:\users\ywang23\documents\visual studio 2013\Projects\ObjectLifetime\ObjectLifetime\bin\Debug\ObjectLifetime.exe
+c:\users\ywang23\documents\visual studio 2013\Projects\ObjectLifetime\ObjectLifetime\bin\Debug\ObjectLifetime.pdb
+c:\users\ywang23\documents\visual studio 2013\Projects\ObjectLifetime\ObjectLifetime\obj\Debug\ObjectLifetime.exe
+c:\users\ywang23\documents\visual studio 2013\Projects\ObjectLifetime\ObjectLifetime\obj\Debug\ObjectLifetime.pdb

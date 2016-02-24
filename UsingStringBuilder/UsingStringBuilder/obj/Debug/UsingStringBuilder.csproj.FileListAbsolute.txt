@@ -1,0 +1,4 @@
+c:\users\ywang23\documents\visual studio 2013\Projects\UsingStringBuilder\UsingStringBuilder\bin\Debug\UsingStringBuilder.exe
+c:\users\ywang23\documents\visual studio 2013\Projects\UsingStringBuilder\UsingStringBuilder\bin\Debug\UsingStringBuilder.pdb
+c:\users\ywang23\documents\visual studio 2013\Projects\UsingStringBuilder\UsingStringBuilder\obj\Debug\UsingStringBuilder.exe
+c:\users\ywang23\documents\visual studio 2013\Projects\UsingStringBuilder\UsingStringBuilder\obj\Debug\UsingStringBuilder.pdb

@@ -1,0 +1,5 @@
+c:\users\ywang23\documents\visual studio 2013\Projects\ContinueBreak\ContinueBreak\bin\Debug\ContinueBreak.exe
+c:\users\ywang23\documents\visual studio 2013\Projects\ContinueBreak\ContinueBreak\bin\Debug\ContinueBreak.pdb
+c:\users\ywang23\documents\visual studio 2013\Projects\ContinueBreak\ContinueBreak\obj\Debug\ContinueBreak.csprojResolveAssemblyReference.cache
+c:\users\ywang23\documents\visual studio 2013\Projects\ContinueBreak\ContinueBreak\obj\Debug\ContinueBreak.exe
+c:\users\ywang23\documents\visual studio 2013\Projects\ContinueBreak\ContinueBreak\obj\Debug\ContinueBreak.pdb

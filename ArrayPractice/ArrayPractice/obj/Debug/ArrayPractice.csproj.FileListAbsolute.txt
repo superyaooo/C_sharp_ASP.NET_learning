@@ -1,0 +1,5 @@
+c:\users\ywang23\documents\visual studio 2013\Projects\ArrayPractice\ArrayPractice\bin\Debug\ArrayPractice.exe
+c:\users\ywang23\documents\visual studio 2013\Projects\ArrayPractice\ArrayPractice\bin\Debug\ArrayPractice.pdb
+c:\users\ywang23\documents\visual studio 2013\Projects\ArrayPractice\ArrayPractice\obj\Debug\ArrayPractice.csprojResolveAssemblyReference.cache
+c:\users\ywang23\documents\visual studio 2013\Projects\ArrayPractice\ArrayPractice\obj\Debug\ArrayPractice.exe
+c:\users\ywang23\documents\visual studio 2013\Projects\ArrayPractice\ArrayPractice\obj\Debug\ArrayPractice.pdb

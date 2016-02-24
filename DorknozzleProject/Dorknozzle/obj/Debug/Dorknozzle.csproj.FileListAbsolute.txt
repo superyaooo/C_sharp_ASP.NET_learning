@@ -1,0 +1,18 @@
+c:\users\ywang23\documents\visual studio 2013\Projects\DorknozzleProject\Dorknozzle\Dorknozzle\obj\Debug\Dorknozzle.csprojResolveAssemblyReference.cache
+c:\users\ywang23\documents\visual studio 2013\Projects\DorknozzleProject\Dorknozzle\Dorknozzle\bin\Dorknozzle.dll.config
+c:\users\ywang23\documents\visual studio 2013\Projects\DorknozzleProject\Dorknozzle\Dorknozzle\bin\Dorknozzle.dll
+c:\users\ywang23\documents\visual studio 2013\Projects\DorknozzleProject\Dorknozzle\Dorknozzle\bin\Dorknozzle.pdb
+c:\users\ywang23\documents\visual studio 2013\Projects\DorknozzleProject\Dorknozzle\Dorknozzle\obj\Debug\Dorknozzle.dll
+c:\users\ywang23\documents\visual studio 2013\Projects\DorknozzleProject\Dorknozzle\Dorknozzle\obj\Debug\Dorknozzle.pdb
+C:\Users\ywang23\Documents\C_sharp_ASP.NET_learning\DorknozzleProject\Dorknozzle\Dorknozzle\bin\Dorknozzle.dll.config
+C:\Users\ywang23\Documents\C_sharp_ASP.NET_learning\DorknozzleProject\Dorknozzle\Dorknozzle\bin\Dorknozzle.dll
+C:\Users\ywang23\Documents\C_sharp_ASP.NET_learning\DorknozzleProject\Dorknozzle\Dorknozzle\bin\Dorknozzle.pdb
+C:\Users\ywang23\Documents\C_sharp_ASP.NET_learning\DorknozzleProject\Dorknozzle\Dorknozzle\obj\Debug\Dorknozzle.csprojResolveAssemblyReference.cache
+C:\Users\ywang23\Documents\C_sharp_ASP.NET_learning\DorknozzleProject\Dorknozzle\Dorknozzle\obj\Debug\Dorknozzle.dll
+C:\Users\ywang23\Documents\C_sharp_ASP.NET_learning\DorknozzleProject\Dorknozzle\Dorknozzle\obj\Debug\Dorknozzle.pdb
+C:\Users\ywang23\Documents\C_sharp_ASP.NET_learning\DorknozzleProject\Dorknozzle\bin\Dorknozzle.dll.config
+C:\Users\ywang23\Documents\C_sharp_ASP.NET_learning\DorknozzleProject\Dorknozzle\bin\Dorknozzle.dll
+C:\Users\ywang23\Documents\C_sharp_ASP.NET_learning\DorknozzleProject\Dorknozzle\bin\Dorknozzle.pdb
+C:\Users\ywang23\Documents\C_sharp_ASP.NET_learning\DorknozzleProject\Dorknozzle\obj\Debug\Dorknozzle.csprojResolveAssemblyReference.cache
+C:\Users\ywang23\Documents\C_sharp_ASP.NET_learning\DorknozzleProject\Dorknozzle\obj\Debug\Dorknozzle.dll
+C:\Users\ywang23\Documents\C_sharp_ASP.NET_learning\DorknozzleProject\Dorknozzle\obj\Debug\Dorknozzle.pdb

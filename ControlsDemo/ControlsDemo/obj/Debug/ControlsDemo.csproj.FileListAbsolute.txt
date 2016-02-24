@@ -1,0 +1,6 @@
+c:\users\ywang23\documents\visual studio 2013\Projects\ControlsDemo\ControlsDemo\bin\ControlsDemo.dll.config
+c:\users\ywang23\documents\visual studio 2013\Projects\ControlsDemo\ControlsDemo\bin\ControlsDemo.dll
+c:\users\ywang23\documents\visual studio 2013\Projects\ControlsDemo\ControlsDemo\bin\ControlsDemo.pdb
+c:\users\ywang23\documents\visual studio 2013\Projects\ControlsDemo\ControlsDemo\obj\Debug\ControlsDemo.csprojResolveAssemblyReference.cache
+c:\users\ywang23\documents\visual studio 2013\Projects\ControlsDemo\ControlsDemo\obj\Debug\ControlsDemo.dll
+c:\users\ywang23\documents\visual studio 2013\Projects\ControlsDemo\ControlsDemo\obj\Debug\ControlsDemo.pdb

@@ -1,0 +1,5 @@
+c:\users\ywang23\documents\visual studio 2013\Projects\Dictionary\Dictionary\bin\Debug\Dictionary.exe
+c:\users\ywang23\documents\visual studio 2013\Projects\Dictionary\Dictionary\bin\Debug\Dictionary.pdb
+c:\users\ywang23\documents\visual studio 2013\Projects\Dictionary\Dictionary\obj\Debug\Dictionary.csprojResolveAssemblyReference.cache
+c:\users\ywang23\documents\visual studio 2013\Projects\Dictionary\Dictionary\obj\Debug\Dictionary.exe
+c:\users\ywang23\documents\visual studio 2013\Projects\Dictionary\Dictionary\obj\Debug\Dictionary.pdb

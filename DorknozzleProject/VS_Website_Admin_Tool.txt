@@ -1,0 +1,7 @@
+cd c:\program files\iis express
+
+iisexpress.exe /path:C:\windows\microsoft.net\framework\v4.0.30319\asp.netwebadminfiles /vpath:"/asp.netwebadminfiles" /port:5000 /clr:4.0 /ntlm
+
+
+URL for browser:
+http://localhost:5000/asp.netwebadminfiles/default.aspx?applicationPhysicalPath=C:\Users\ywang23\Documents\C_sharp_ASP.NET_learning\DorknozzleProject\Dorknozzle&applicationUrl=/

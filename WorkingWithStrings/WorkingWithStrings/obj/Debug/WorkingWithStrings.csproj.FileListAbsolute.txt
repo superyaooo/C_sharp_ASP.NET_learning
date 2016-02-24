@@ -1,0 +1,5 @@
+c:\users\ywang23\documents\visual studio 2013\Projects\WorkingWithStrings\WorkingWithStrings\bin\Debug\WorkingWithStrings.exe
+c:\users\ywang23\documents\visual studio 2013\Projects\WorkingWithStrings\WorkingWithStrings\bin\Debug\WorkingWithStrings.pdb
+c:\users\ywang23\documents\visual studio 2013\Projects\WorkingWithStrings\WorkingWithStrings\obj\Debug\WorkingWithStrings.csprojResolveAssemblyReference.cache
+c:\users\ywang23\documents\visual studio 2013\Projects\WorkingWithStrings\WorkingWithStrings\obj\Debug\WorkingWithStrings.exe
+c:\users\ywang23\documents\visual studio 2013\Projects\WorkingWithStrings\WorkingWithStrings\obj\Debug\WorkingWithStrings.pdb

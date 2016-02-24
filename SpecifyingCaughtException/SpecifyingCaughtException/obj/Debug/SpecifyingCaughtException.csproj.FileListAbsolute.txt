@@ -1,0 +1,4 @@
+c:\users\ywang23\documents\visual studio 2013\Projects\SpecifyingCaughtException\SpecifyingCaughtException\bin\Debug\SpecifyingCaughtException.exe
+c:\users\ywang23\documents\visual studio 2013\Projects\SpecifyingCaughtException\SpecifyingCaughtException\bin\Debug\SpecifyingCaughtException.pdb
+c:\users\ywang23\documents\visual studio 2013\Projects\SpecifyingCaughtException\SpecifyingCaughtException\obj\Debug\SpecifyingCaughtException.exe
+c:\users\ywang23\documents\visual studio 2013\Projects\SpecifyingCaughtException\SpecifyingCaughtException\obj\Debug\SpecifyingCaughtException.pdb

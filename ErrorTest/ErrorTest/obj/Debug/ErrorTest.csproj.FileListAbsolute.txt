@@ -1,0 +1,6 @@
+C:\Users\ywang23\documents\visual studio 2013\Projects\DorknozzleProject\ErrorTest\ErrorTest\obj\Debug\ErrorTest.csprojResolveAssemblyReference.cache
+C:\Users\ywang23\documents\visual studio 2013\Projects\DorknozzleProject\ErrorTest\ErrorTest\bin\ErrorTest.dll.config
+C:\Users\ywang23\documents\visual studio 2013\Projects\DorknozzleProject\ErrorTest\ErrorTest\bin\ErrorTest.dll
+C:\Users\ywang23\documents\visual studio 2013\Projects\DorknozzleProject\ErrorTest\ErrorTest\bin\ErrorTest.pdb
+C:\Users\ywang23\documents\visual studio 2013\Projects\DorknozzleProject\ErrorTest\ErrorTest\obj\Debug\ErrorTest.dll
+C:\Users\ywang23\documents\visual studio 2013\Projects\DorknozzleProject\ErrorTest\ErrorTest\obj\Debug\ErrorTest.pdb

@@ -1,0 +1,4 @@
+c:\users\ywang23\documents\visual studio 2013\Projects\RectangularArray\RectangularArray\bin\Debug\RectangularArray.exe
+c:\users\ywang23\documents\visual studio 2013\Projects\RectangularArray\RectangularArray\bin\Debug\RectangularArray.pdb
+c:\users\ywang23\documents\visual studio 2013\Projects\RectangularArray\RectangularArray\obj\Debug\RectangularArray.exe
+c:\users\ywang23\documents\visual studio 2013\Projects\RectangularArray\RectangularArray\obj\Debug\RectangularArray.pdb

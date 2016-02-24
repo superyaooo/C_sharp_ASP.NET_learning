@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0" >
+  <siteMapNode title="Home" url="~/Default.aspx"
+description="Home">
+    <siteMapNode title="SiteMapPath" url="~/SiteMapPath.aspx"
+    description="TreeView Example" />
+    <siteMapNode title="TreeView" url="~/TreeViewSitemap.aspx"
+    description="TreeView Example" />
+    <siteMapNode title="ClickEvent" url="~/ClickEvent.aspx"
+    description="ClickEvent Example" />
+    <siteMapNode title="Loops"
+    url="~/Loops.aspx"
+    description="Loops Example" />
+  </siteMapNode>
+</siteMap>

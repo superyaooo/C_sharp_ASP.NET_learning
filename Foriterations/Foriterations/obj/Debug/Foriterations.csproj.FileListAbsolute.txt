@@ -1,0 +1,5 @@
+c:\users\ywang23\documents\visual studio 2013\Projects\Foriterations\Foriterations\bin\Debug\Foriterations.exe
+c:\users\ywang23\documents\visual studio 2013\Projects\Foriterations\Foriterations\bin\Debug\Foriterations.pdb
+c:\users\ywang23\documents\visual studio 2013\Projects\Foriterations\Foriterations\obj\Debug\Foriterations.csprojResolveAssemblyReference.cache
+c:\users\ywang23\documents\visual studio 2013\Projects\Foriterations\Foriterations\obj\Debug\Foriterations.exe
+c:\users\ywang23\documents\visual studio 2013\Projects\Foriterations\Foriterations\obj\Debug\Foriterations.pdb

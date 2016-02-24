@@ -1,0 +1,6 @@
+c:\users\ywang23\documents\visual studio 2013\Projects\ASPNetEvents\ASPNetEvents\bin\ASPNetEvents.dll.config
+c:\users\ywang23\documents\visual studio 2013\Projects\ASPNetEvents\ASPNetEvents\bin\ASPNetEvents.dll
+c:\users\ywang23\documents\visual studio 2013\Projects\ASPNetEvents\ASPNetEvents\bin\ASPNetEvents.pdb
+c:\users\ywang23\documents\visual studio 2013\Projects\ASPNetEvents\ASPNetEvents\obj\Debug\ASPNetEvents.csprojResolveAssemblyReference.cache
+c:\users\ywang23\documents\visual studio 2013\Projects\ASPNetEvents\ASPNetEvents\obj\Debug\ASPNetEvents.dll
+c:\users\ywang23\documents\visual studio 2013\Projects\ASPNetEvents\ASPNetEvents\obj\Debug\ASPNetEvents.pdb

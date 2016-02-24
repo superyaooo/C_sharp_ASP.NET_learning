@@ -1,0 +1,6 @@
+c:\users\ywang23\documents\visual studio 2013\Projects\DorknozzleProject\Login_01\Login_01\bin\Login_01.dll.config
+c:\users\ywang23\documents\visual studio 2013\Projects\DorknozzleProject\Login_01\Login_01\bin\Login_01.dll
+c:\users\ywang23\documents\visual studio 2013\Projects\DorknozzleProject\Login_01\Login_01\bin\Login_01.pdb
+c:\users\ywang23\documents\visual studio 2013\Projects\DorknozzleProject\Login_01\Login_01\obj\Debug\Login.csprojResolveAssemblyReference.cache
+c:\users\ywang23\documents\visual studio 2013\Projects\DorknozzleProject\Login_01\Login_01\obj\Debug\Login_01.dll
+c:\users\ywang23\documents\visual studio 2013\Projects\DorknozzleProject\Login_01\Login_01\obj\Debug\Login_01.pdb

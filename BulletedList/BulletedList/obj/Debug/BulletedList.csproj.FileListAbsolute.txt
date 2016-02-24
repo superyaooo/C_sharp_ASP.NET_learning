@@ -1,0 +1,5 @@
+c:\users\ywang23\documents\visual studio 2013\Projects\BulletedList\BulletedList\bin\BulletedList.dll.config
+c:\users\ywang23\documents\visual studio 2013\Projects\BulletedList\BulletedList\bin\BulletedList.dll
+c:\users\ywang23\documents\visual studio 2013\Projects\BulletedList\BulletedList\bin\BulletedList.pdb
+c:\users\ywang23\documents\visual studio 2013\Projects\BulletedList\BulletedList\obj\Debug\BulletedList.dll
+c:\users\ywang23\documents\visual studio 2013\Projects\BulletedList\BulletedList\obj\Debug\BulletedList.pdb
