@@ -1,0 +1,6 @@
+c:\users\ywang23\documents\visual studio 2013\Projects\UsingStyles\UsingStyles\bin\UsingStyles.dll.config
+c:\users\ywang23\documents\visual studio 2013\Projects\UsingStyles\UsingStyles\bin\UsingStyles.dll
+c:\users\ywang23\documents\visual studio 2013\Projects\UsingStyles\UsingStyles\bin\UsingStyles.pdb
+c:\users\ywang23\documents\visual studio 2013\Projects\UsingStyles\UsingStyles\obj\Debug\UsingStyles.csprojResolveAssemblyReference.cache
+c:\users\ywang23\documents\visual studio 2013\Projects\UsingStyles\UsingStyles\obj\Debug\UsingStyles.dll
+c:\users\ywang23\documents\visual studio 2013\Projects\UsingStyles\UsingStyles\obj\Debug\UsingStyles.pdb

@@ -1,0 +1,6 @@
+c:\users\ywang23\documents\visual studio 2013\Projects\ValidationGroups\ValidationGroups\bin\ValidationGroups.dll.config
+c:\users\ywang23\documents\visual studio 2013\Projects\ValidationGroups\ValidationGroups\bin\ValidationGroups.dll
+c:\users\ywang23\documents\visual studio 2013\Projects\ValidationGroups\ValidationGroups\bin\ValidationGroups.pdb
+c:\users\ywang23\documents\visual studio 2013\Projects\ValidationGroups\ValidationGroups\obj\Debug\ValidationGroups.csprojResolveAssemblyReference.cache
+c:\users\ywang23\documents\visual studio 2013\Projects\ValidationGroups\ValidationGroups\obj\Debug\ValidationGroups.dll
+c:\users\ywang23\documents\visual studio 2013\Projects\ValidationGroups\ValidationGroups\obj\Debug\ValidationGroups.pdb
